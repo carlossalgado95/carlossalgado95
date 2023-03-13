@@ -6,7 +6,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossalgado95&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-##
+## 
 
 <div style="" align="rigth">
   <img align="center" alt="Gef-Python" height="130" width="170" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
