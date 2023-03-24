@@ -8,7 +8,7 @@
   
   <p>
     I'm Carlos Salgado and work as a Data & Analytics who is passionate about Data technologies and its entire ecosystem. Graduate from Computer Engineering from 
-   <a href="https://www.ufmt.br/">  target="_blank">the Federal University of Mato Grosso (UFMT)</a>, Brazil. Data Science enthusiast and I love working with data.
+   <a href="https://www.ufmt.br/"> the Federal University of Mato Grosso (UFMT)</a>, Brazil. Data Science enthusiast and I love working with data.
 </p>
     
 
