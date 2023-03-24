@@ -1,4 +1,15 @@
+# Carlos Salgado
+
 ### Hi there 👋
+
+<p><b>"It's never too late to be who you always wanted to be."</b><p>
+  
+  
+  
+  <p>
+    I'm Carlos Salgado and work as a Data & Analytics who is passionate about Data technologies and its entire ecosystem. Graduate from Computer Engineering from the Federal University of Mato Grosso (UFMT), Brazil. Data Science enthusiast and I love working with data.
+</p>
+    
 
   👨‍💻 Hello, I'm a Data Science enthusiast and I love working with data.
   
