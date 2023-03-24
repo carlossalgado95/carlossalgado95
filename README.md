@@ -13,7 +13,7 @@
   <b>  
   👨‍💻 Hello, I’ve been working as Data Scientist in Brazil.
   
-  📊 Here on my profile you will find interesting projects related to Data Science, machine learning, BI, business analysis,SQL and process automation.
+  📊 Here on my profile you will find interesting projects related to: Data Science, Machine Learning, BI and SQL.
   
   🚀 I also enjoy working with technologies in web development, business analysis tools and supply chain forecasting.
   
