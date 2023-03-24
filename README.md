@@ -10,17 +10,17 @@
     I'm Carlos Salgado and work as a Data & Analytics who is passionate about Data technologies and its entire ecosystem. Graduate from Computer Engineering from 
    <a href="https://www.ufmt.br/"> Federal University of Mato Grosso (UFMT)</a>, Brazil. 
 </p>
-  <b>  
+   
   👨‍💻 Hello, I’ve been working as Data Scientist in Brazil.
-  <br>
+  
   📊 Here on my profile you will find interesting projects related to: Data Science, Machine Learning, BI and SQL.
-  <br> 
+   
   🚀 I also enjoy working with technologies in web development, business analysis tools and supply chain forecasting.
-  <br>
+ 
   🔧 I have a degree in Computer Engineering from the Federal University of Mato Grosso
-  </b>
+  
 
-<br>
+
 
 
 <br><br><br>
