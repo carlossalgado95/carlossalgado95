@@ -35,11 +35,8 @@
   🔧 I have a degree in Computer Engineering from the Federal University of Mato Grosso
   
   ## PROJECTS
-<img align="left" width="320px" alt="Projetos" src="https://media1.giphy.com/media/J39BCrabo3FNQQWLzl/giphy.gif"/>
   
- <p align="left">
- <br>
- <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/star.svg" /><a href="https://github.com/carlossalgado95/Health-Plan-Costs" target="_blank">  &nbsp; Health Plan Costs Project</a> <br></p>
+<a href="https://github.com/carlossalgado95/Health-Plan-Costs" target="_blank">  &nbsp; Health Plan Costs Project</a> <br></p>
 
   
   
