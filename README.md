@@ -18,7 +18,7 @@
   🚀 I also enjoy working with technologies in web development, business analysis tools and supply chain forecasting.
   
   🔧 I have a degree in Computer Engineering from the Federal University of Mato Grosso
-  </>
+  </b>
 
 <br>
 
