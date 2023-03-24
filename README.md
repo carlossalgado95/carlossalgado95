@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+  👨‍💻 Hello, I'm a Data Science enthusiast and I love working with data.
+  
+  📊 Here on my profile you will find interesting projects related to process automation, machine learning, BI and business analysis
+  
+  🚀 I also enjoy working with technologies in web development, business analysis tools and supply chain forecasting.
+  
+  🔧 I have a degree in Computer Engineering from the Federal University of Mato Grosso
+  
+
 <div style="display: inline-block">
   <a href="https://github.com/carlossalgado95">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=carlossalgado95&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -26,13 +35,7 @@
 
   ##
   
-  👨‍💻 Hello, I'm a Data Science enthusiast and I love working with data.
-  
-  📊 Here on my profile you will find interesting projects related to process automation, machine learning, BI and business analysis
-  
-  🚀 I also enjoy working with technologies in web development, business analysis tools and supply chain forecasting.
-  
-  🔧 I have a degree in Computer Engineering from the Federal University of Mato Grosso
+
   
   ## PROJECTS
 
