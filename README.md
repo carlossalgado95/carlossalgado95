@@ -14,7 +14,7 @@
   👨‍💻 Hello, I’ve been working as Data Scientist in Brazil.
   <br>
   📊 Here on my profile you will find interesting projects related to: Data Science, Machine Learning, BI and SQL.
-  <br>
+  <br> ##
   🚀 I also enjoy working with technologies in web development, business analysis tools and supply chain forecasting.
   <br>
   🔧 I have a degree in Computer Engineering from the Federal University of Mato Grosso
