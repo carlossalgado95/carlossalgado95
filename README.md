@@ -9,7 +9,9 @@
   🔧 I have a degree in Computer Engineering from the Federal University of Mato Grosso
   
 
-
+<br>
+<br>
+<br>
 
 
 <div style="display: inline-block">
